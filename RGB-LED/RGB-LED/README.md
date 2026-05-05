@@ -18,6 +18,7 @@ Cycles through 7 colors using PWM signals
 ## Circuit
 Simulated with Common Cathode in Tinkercad
 Real hardware uses Common Anode RGB LED
+![Circuit Diagram](circuit.png)
 
 Note: For Common Anode, invert all values
 (255 = OFF, 0 = full brightness)
