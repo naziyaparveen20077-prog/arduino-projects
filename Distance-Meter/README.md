@@ -21,5 +21,4 @@ and displays it live on LCD!!
 - Combining multiple components
 - LCD display integration
 ## Circuit
-## Circuit
 ![Circuit](circuit_distance meter.png)
