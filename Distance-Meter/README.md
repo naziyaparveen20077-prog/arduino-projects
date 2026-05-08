@@ -20,3 +20,5 @@ and displays it live on LCD!!
 - pulseIn() function
 - Combining multiple components
 - LCD display integration
+## Circuit
+![Full Circuit](circuit_distance meter)
