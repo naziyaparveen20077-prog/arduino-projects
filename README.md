@@ -7,6 +7,7 @@ My Arduino learning journey as an ECE student
 |---------|-------------|--------|
 | RGB LED Color Mixer | Cycles through 7 colors using PWM | ✅ Done |
 | Distance Meter | HC-SR04 + LCD distance measurement | ✅ Done |
+| Automatic Street Light | LDR based auto LED control | ✅ Done |
 
 ## Skills
 - C/C++ programming
